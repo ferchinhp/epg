@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv source-info-name="Colombia" generator-info-name="Colombia">
-	<channel id="I138.101730.schedulesdirect.org">
-		<display-name>Cinemax Latino HD</display-name>
-		<display-name>138 Cinemax Latino HD</display-name>
-		<display-name>138</display-name>
-		<display-name>Cinemax</display-name>
+	<channel id="Cinemax HD">
+		<display-name>Cinemax HD</display-name>
 		<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" width="360" height="270" />
 	</channel>
-	<programme start="20241128001900 +0000" stop="20241128024400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128001900 +0000" stop="20241128024400 +0000" channel="Cinemax HD">
 		<title lang="en">Cuestión de tiempo</title>
 		<desc lang="en">Cuando Tim Lake cumple 21 años, su padre le dice un secreto: los hombres de su familia pueden viajar por el tiempo. A pesar de que él no puede cambiar la historia, Tim decide mejorar su vida buscando una novia. Él conoce a Mary, se enamora y finalmente se gana su corazón con los viajes en el tiempo y un poco de astucia. Sin embargo, mientras su inusual vida progresa, Tim descubre que su habilidad especial no puede protegerlos de los problemas diarios de la vida.</desc>
 		<credits>
@@ -138,7 +135,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128024400 +0000" stop="20241128052000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128024400 +0000" stop="20241128052000 +0000" channel="Cinemax HD">
 		<title lang="en">Hulk</title>
 		<desc lang="en">El científico Bruce Banner se transforma en un poderoso ser tras la falla de un experimento. Dirigida por Ang Lee.</desc>
 		<credits>
@@ -265,7 +262,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128052000 +0000" stop="20241128052700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128052000 +0000" stop="20241128052700 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -274,7 +271,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241128052700 +0000" stop="20241128073400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128052700 +0000" stop="20241128073400 +0000" channel="Cinemax HD">
 		<title lang="en">Barry Seal: Solo en América</title>
 		<desc lang="en">En la década de los ochenta, la CIA contrata al piloto americano Barry Seal para una misión encubierta que dio origen al Cartel de Medellín y casi termina con la presidencia de Ronald Reagan.</desc>
 		<credits>
@@ -412,7 +409,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128073400 +0000" stop="20241128095900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128073400 +0000" stop="20241128095900 +0000" channel="Cinemax HD">
 		<title lang="en">El robo perfecto</title>
 		<desc lang="en">Un grupo de policías de élite se enfrenta a una banda de exmilitares que pretende cometer un atraco casi imposible: robar el banco de la reserva federal de la ciudad de Los Ángeles.</desc>
 		<credits>
@@ -509,7 +506,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128095900 +0000" stop="20241128113200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128095900 +0000" stop="20241128113200 +0000" channel="Cinemax HD">
 		<title lang="en">Un funeral de muerte</title>
 		<desc lang="en">Las revelaciones secretas y el caos reinan cuando los miembros de una familia disfuncional británica se reúnen para enterrar a su patriarca.</desc>
 		<credits>
@@ -629,7 +626,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128113200 +0000" stop="20241128114800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128113200 +0000" stop="20241128114800 +0000" channel="Cinemax HD">
 		<title lang="en">Hollywood One on One</title>
 		<desc lang="en">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
 		<category lang="en">Talk</category>
@@ -650,7 +647,7 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20241128114800 +0000" stop="20241128121400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128114800 +0000" stop="20241128121400 +0000" channel="Cinemax HD">
 		<title lang="en">Hollywood One on One</title>
 		<desc lang="en">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
 		<category lang="en">Talk</category>
@@ -671,7 +668,7 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20241128121400 +0000" stop="20241128134500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128121400 +0000" stop="20241128134500 +0000" channel="Cinemax HD">
 		<title lang="en">Una llamada perdida</title>
 		<desc lang="en">Cuando Beth Raymond atestigua las muertes de dos amigos, ella sabe que se trata de mucho más que una simple coincidencia; días antes de su muerte, ambas víctimas escuchan sus terribles momentos finales en sus teléfonos celulares. A pesar de que la policía piensa que Beth está loca, el detective Jack Andrews sí le cree. Juntos intentan revelar el misterio detrás de los terribles mensajes antes de que sus propios teléfonos resulten afectados.</desc>
 		<credits>
@@ -789,7 +786,7 @@
 			<value>1/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128134500 +0000" stop="20241128154900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128134500 +0000" stop="20241128154900 +0000" channel="Cinemax HD">
 		<title lang="en">Fragmentado</title>
 		<desc lang="en">Kevin, un hombre psicótico con 23 personalidades, secuestra a 3 chicas jóvenes y las mantiene retenidas en un sótano. A medida que una de sus personalidades va imponiéndose al resto, la vida de las chicas, y la del propio Kevin, peligra cada vez más.</desc>
 		<credits>
@@ -908,7 +905,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128154900 +0000" stop="20241128155700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128154900 +0000" stop="20241128155700 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -917,7 +914,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241128155700 +0000" stop="20241128174000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128155700 +0000" stop="20241128174000 +0000" channel="Cinemax HD">
 		<title lang="en">Feliz día de tu muerte</title>
 		<desc lang="en">Un asesino enmascarado mata a Tree Gelbman, una estudiante universitaria. A partir de entonces, ella revive el mismo día desde primera hora de la mañana, una y otra vez, sin lograr averiguar quién la asesina todos los días.</desc>
 		<credits>
@@ -1046,7 +1043,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128174000 +0000" stop="20241128191000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128174000 +0000" stop="20241128191000 +0000" channel="Cinemax HD">
 		<title lang="en">Brahms: El niño 2</title>
 		<desc lang="en">Una joven familia se muda a una mansión sin conocer la aterradora historia que se esconde tras sus paredes. Allí, el hijo pequeño hace una nueva amiga: una muñeca con forma humana a la que llama Brahms.</desc>
 		<credits>
@@ -1160,7 +1157,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128191000 +0000" stop="20241128204300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128191000 +0000" stop="20241128204300 +0000" channel="Cinemax HD">
 		<title lang="en">La noche de la expiación</title>
 		<desc lang="en">En un país asolado por la delincuencia y el hacinamiento en las cárceles, el Gobierno sanciona un período anual de 12 horas durante el cual toda la actividad criminal es legal, hasta el asesinato. James, Mary y sus dos hijos luchan por sobrevivir y no convertirse en monstruos.</desc>
 		<credits>
@@ -1293,7 +1290,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128204300 +0000" stop="20241128205100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128204300 +0000" stop="20241128205100 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -1302,7 +1299,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241128205100 +0000" stop="20241128225200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128205100 +0000" stop="20241128225200 +0000" channel="Cinemax HD">
 		<title lang="en">12 horas para sobrevivir: El año de la elección</title>
 		<desc lang="en">Hace 18 años, Charlie Roan presenció el asesinato de su familia durante la noche de la Purga. En el presente, Charlie es candidata a la presidencia y quiere acabar con el régimen impuesto hace 20 años, que utiliza este día para eliminar a los más pobres y recortar el gasto público, pero antes deberá sobrevivir a doce horas de terror absoluto.</desc>
 		<credits>
@@ -1439,7 +1436,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241128225200 +0000" stop="20241129004100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241128225200 +0000" stop="20241129004100 +0000" channel="Cinemax HD">
 		<title lang="en">Los huéspedes</title>
 		<desc lang="en">Una madre manda a sus dos hijos a la granja de sus abuelos en Pensilvania. Lo que parece un lugar idílico irá convirtiéndose en un entorno lúgubre y peligroso cuando los chicos comienzan a sospechar que sus abuelos guardan un secreto oscuro y perturbador. Un secreto que tal vez signifique que ellos nunca puedan volver a casa con su madre.</desc>
 		<credits>
@@ -1564,7 +1561,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129004100 +0000" stop="20241129025200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129004100 +0000" stop="20241129025200 +0000" channel="Cinemax HD">
 		<title lang="en">Fragmentado</title>
 		<desc lang="en">Kevin, un hombre psicótico con 23 personalidades, secuestra a 3 chicas jóvenes y las mantiene retenidas en un sótano. A medida que una de sus personalidades va imponiéndose al resto, la vida de las chicas, y la del propio Kevin, peligra cada vez más.</desc>
 		<credits>
@@ -1683,7 +1680,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129025200 +0000" stop="20241129030000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129025200 +0000" stop="20241129030000 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -1692,7 +1689,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241129030000 +0000" stop="20241129044700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129030000 +0000" stop="20241129044700 +0000" channel="Cinemax HD">
 		<title lang="en">Feliz día de tu muerte</title>
 		<desc lang="en">Un asesino enmascarado mata a Tree Gelbman, una estudiante universitaria. A partir de entonces, ella revive el mismo día desde primera hora de la mañana, una y otra vez, sin lograr averiguar quién la asesina todos los días.</desc>
 		<credits>
@@ -1821,7 +1818,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129044700 +0000" stop="20241129062300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129044700 +0000" stop="20241129062300 +0000" channel="Cinemax HD">
 		<title lang="en">Fuera de control</title>
 		<desc lang="en">El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc>
 		<credits>
@@ -1955,7 +1952,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129062300 +0000" stop="20241129073300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129062300 +0000" stop="20241129073300 +0000" channel="Cinemax HD">
 		<title lang="en">True Blood</title>
 		<sub-title lang="en">May Be the Last Time</sub-title>
 		<desc lang="en">Eric, Pam y el Sr. Gus se acercan a Sarah en Dallas. Adilyn y Wade encuentran un refugio temporal. Sookie busca un milagro. Bill recuerda su matrimonio pasado. Una cara conocida reaparece en Bon Temps. Sam se enfrenta a un dilema.</desc>
@@ -2059,7 +2056,7 @@
 			<value>Violence</value>
 		</rating>
 	</programme>
-	<programme start="20241129073300 +0000" stop="20241129090400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129073300 +0000" stop="20241129090400 +0000" channel="Cinemax HD">
 		<title lang="en">Priest: El vengador</title>
 		<desc lang="en">En una sociedad sacudida por siglos de guerras entre humanos y vampiros, un legendario monje guerrero trata de rescatar a su sobrina, raptada por un grupo de vampiros sedientos de sangre.</desc>
 		<credits>
@@ -2196,7 +2193,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129090400 +0000" stop="20241129104100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129090400 +0000" stop="20241129104100 +0000" channel="Cinemax HD">
 		<title lang="en">La gran muralla</title>
 		<desc lang="en">En el siglo XV, un grupo de guerreros británicos que viaja por China se encuentra con la construcción apresurada de una estructura masiva que se conocerá como la Gran Muralla. Al caer la noche, el grupo entiende que lo acelerado de la construcción no es solo para mantener alejados a los temibles mongoles, sino para protegerse de algo inhumano y mucho más amenazante.</desc>
 		<credits>
@@ -2333,7 +2330,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129104100 +0000" stop="20241129112000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129104100 +0000" stop="20241129112000 +0000" channel="Cinemax HD">
 		<title lang="en">Hollywood One on One</title>
 		<desc lang="en">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
 		<category lang="en">Talk</category>
@@ -2354,7 +2351,7 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20241129112000 +0000" stop="20241129120000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129112000 +0000" stop="20241129120000 +0000" channel="Cinemax HD">
 		<title lang="en">Hollywood One on One</title>
 		<desc lang="en">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
 		<category lang="en">Talk</category>
@@ -2375,7 +2372,7 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20241129120000 +0000" stop="20241129131700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129120000 +0000" stop="20241129131700 +0000" channel="Cinemax HD">
 		<title lang="en">Experimenter: La historia de Stanley Milgram</title>
 		<desc lang="en">En 1961, el psicólogo Stanley Milgram llevó a cabo en Yale unos controvertidos experimentos, tachados de sádicos por sus críticos, en los que estudió cuáles eran los límites de la obediencia, y dónde comienza el libre albedrío. La investigación se originó a raíz del juicio a Adolf Eichmann (el criminal de guerra nazi que alegó obediencia debida en su defensa durante su juicio en Israel).</desc>
 		<credits>
@@ -2475,7 +2472,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129131700 +0000" stop="20241129152800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129131700 +0000" stop="20241129152800 +0000" channel="Cinemax HD">
 		<title lang="en">La verdad oculta</title>
 		<desc lang="en">La historia del doctor Bennet Omalu, quien desafió al fútbol americano descubriendo el riesgo de los traumatismos cerebrales mientras realizaba una autopsia al cadáver del exjugador de la NFL Mike Webster. Después, luchó por difundir sus averiguaciones mientras estudiaba a cada vez más atletas aquejados de los síntomas producidos por la reiteración de traumatismos cerebrales.</desc>
 		<credits>
@@ -2605,7 +2602,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129152800 +0000" stop="20241129170500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129152800 +0000" stop="20241129170500 +0000" channel="Cinemax HD">
 		<title lang="en">Hombres de negro II</title>
 		<desc lang="en">Kay y Jay unen fuerzas para consolidar la mejor defensa contra una mujer muy seductora: Serleena, un monstruo que se convierte en un enorme desafío para los hombres de negro.</desc>
 		<credits>
@@ -2741,7 +2738,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129170500 +0000" stop="20241129171300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129170500 +0000" stop="20241129171300 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -2750,7 +2747,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241129171300 +0000" stop="20241129185500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129171300 +0000" stop="20241129185500 +0000" channel="Cinemax HD">
 		<title lang="en">Gravedad</title>
 		<desc lang="en">La doctora Ryan Stone es una ingeniera médica en su primera misión espacial. Su comandante es el veterano Matt Kowalsky, en su último viaje antes de retirarse. Una caminata espacial de rutina se convierte en un desastre y la nave queda destruida, dejando a Ryan y Matt atrapados en el espacio, sin ninguna conexión con la Tierra y sin esperanza de ser rescatados. Su temor se convierte en pánico, y se dan cuenta de que su camino a casa será una aventura en el espacio.</desc>
 		<credits>
@@ -2879,7 +2876,7 @@
 			<value>3.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129185500 +0000" stop="20241129204000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129185500 +0000" stop="20241129204000 +0000" channel="Cinemax HD">
 		<title lang="en">La prueba beta</title>
 		<desc lang="en">Un agente de Hollywood casado recibe una misteriosa carta para un encuentro sexual anónimo y queda atrapado en un siniestro mundo de mentiras, asesinatos e infidelidades.</desc>
 		<credits>
@@ -2942,7 +2939,7 @@
 			<value>Adult Situations</value>
 		</rating>
 	</programme>
-	<programme start="20241129204000 +0000" stop="20241129223500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129204000 +0000" stop="20241129223500 +0000" channel="Cinemax HD">
 		<title lang="en">Sin límites</title>
 		<desc lang="en">El escritor Eddie Morra se enfrenta al desempleo, al rechazo de su novia y está convencido de que no tiene futuro. La situación cambia cuando un amigo le presenta la MDT, una droga que mejora las habilidades mentales. Gracias al MDT, Eddie alcanza la cima del mundo financiero. Él atrae la atención de un magnate que cree poder usar a Eddie para hacer una fortuna, pero los efectos secundarios y una disminución en sus poderes amenazan la buena suerte de Eddie.</desc>
 		<credits>
@@ -3074,7 +3071,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241129223500 +0000" stop="20241129224300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129223500 +0000" stop="20241129224300 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -3083,7 +3080,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241129224300 +0000" stop="20241130012100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241129224300 +0000" stop="20241130012100 +0000" channel="Cinemax HD">
 		<title lang="en">Apollo 13</title>
 		<desc lang="en">El Apolo 13 inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave.</desc>
 		<credits>
@@ -3204,7 +3201,7 @@
 			<value>3.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130012100 +0000" stop="20241130030000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130012100 +0000" stop="20241130030000 +0000" channel="Cinemax HD">
 		<title lang="en">Hombres de negro II</title>
 		<desc lang="en">Kay y Jay unen fuerzas para consolidar la mejor defensa contra una mujer muy seductora: Serleena, un monstruo que se convierte en un enorme desafío para los hombres de negro.</desc>
 		<credits>
@@ -3340,7 +3337,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130030000 +0000" stop="20241130045200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130030000 +0000" stop="20241130045200 +0000" channel="Cinemax HD">
 		<title lang="en">Gravedad</title>
 		<desc lang="en">La doctora Ryan Stone es una ingeniera médica en su primera misión espacial. Su comandante es el veterano Matt Kowalsky, en su último viaje antes de retirarse. Una caminata espacial de rutina se convierte en un desastre y la nave queda destruida, dejando a Ryan y Matt atrapados en el espacio, sin ninguna conexión con la Tierra y sin esperanza de ser rescatados. Su temor se convierte en pánico, y se dan cuenta de que su camino a casa será una aventura en el espacio.</desc>
 		<credits>
@@ -3469,7 +3466,7 @@
 			<value>3.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130045200 +0000" stop="20241130063400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130045200 +0000" stop="20241130063400 +0000" channel="Cinemax HD">
 		<title lang="en">El día del fin del mundo</title>
 		<desc lang="en">Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.</desc>
 		<credits>
@@ -3578,7 +3575,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130063400 +0000" stop="20241130083700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130063400 +0000" stop="20241130083700 +0000" channel="Cinemax HD">
 		<title lang="en">Parker</title>
 		<desc lang="en">Un ladrón es traicionado por su propia banda, quienes lo abandonan a su suerte y lo dan por muerto. Si embargo, sobrevive y, con la ayuda de una infiltrada y una identidad falsa, promete vengarse y apropiarse del botín que robaron sus viejos camaradas.</desc>
 		<credits>
@@ -3710,7 +3707,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130083700 +0000" stop="20241130100400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130083700 +0000" stop="20241130100400 +0000" channel="Cinemax HD">
 		<title lang="en">Fuera de control</title>
 		<desc lang="en">El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc>
 		<credits>
@@ -3844,7 +3841,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130100400 +0000" stop="20241130120900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130100400 +0000" stop="20241130120900 +0000" channel="Cinemax HD">
 		<title lang="en">Hasta que la muerte los juntó</title>
 		<desc lang="en">Cuando la última petición de su padre obliga a cuatro hermanos a vivir juntos durante una semana bajo el mismo techo, ellos confrontan su turbulenta historia y relaciones complicadas.</desc>
 		<credits>
@@ -3956,7 +3953,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130120900 +0000" stop="20241130143100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130120900 +0000" stop="20241130143100 +0000" channel="Cinemax HD">
 		<title lang="en">Meteoro</title>
 		<desc lang="en">Speed Racer (Emile Hirsch) nació en una familia que está en el negocio de los autos de carreras y es una de las grandes estrellas. Sentado tras el volante de su Mach 5, Speed frecuentemente gana las competencias. Cuando no acepta una oferta del presidente de Industrias Royalton, descubre un terrible secreto: magnates poderosos están arreglando las carreras. Con la esperanza de vencer a Royalton en su propio juego, Speed participa en la misma carrera que cobró la vida de su querido hermano.</desc>
 		<credits>
@@ -4088,7 +4085,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130143100 +0000" stop="20241130170100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130143100 +0000" stop="20241130170100 +0000" channel="Cinemax HD">
 		<title lang="en">Aquaman</title>
 		<desc lang="en">Aquaman debe recuperar el legendario Tridente de Atlan para salvar a la ciudad subacuática de Atlantis, y al mundo de la superficie, de su hermano hambriento de poder.</desc>
 		<credits>
@@ -4249,7 +4246,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130170100 +0000" stop="20241130184100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130170100 +0000" stop="20241130184100 +0000" channel="Cinemax HD">
 		<title lang="en">El espanta tiburones</title>
 		<desc lang="en">El hijo de un tiburón mafioso muere cuando le cae un ancla encima. Un pez con mucho descaro y sueños de grandeza se encontraba en la escena del crimen y, para darse importancia, se atribuye la muerte. Sin duda, un grave error.</desc>
 		<credits>
@@ -4386,7 +4383,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130184100 +0000" stop="20241130184900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130184100 +0000" stop="20241130184900 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -4395,7 +4392,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241130184900 +0000" stop="20241130203900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130184900 +0000" stop="20241130203900 +0000" channel="Cinemax HD">
 		<title lang="en">Mini espías 2: La isla de los sueños perdidos</title>
 		<desc lang="en">Dos niños enfrentan a criaturas mutantes y a un científico mientras buscan un artefacto que puede destruir la Tierra.</desc>
 		<credits>
@@ -4517,7 +4514,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130203900 +0000" stop="20241130220800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130203900 +0000" stop="20241130220800 +0000" channel="Cinemax HD">
 		<title lang="en">Mini espías 3D</title>
 		<desc lang="en">Un chico intenta rescatar a su hermana, quien está atrapada en un juego virtual creado por un loco que intenta esclavizar a los niños.</desc>
 		<credits>
@@ -4624,7 +4621,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241130220800 +0000" stop="20241201001900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241130220800 +0000" stop="20241201001900 +0000" channel="Cinemax HD">
 		<title lang="en">Saban's Power Rangers</title>
 		<desc lang="en">Cinco adolescentes ordinarios deben convertirse en superhéroes cuando se enteran de que su pequeña ciudad de Angel Grove, y el mundo entero, están a punto de ser borrados por una amenaza alienígena.</desc>
 		<credits>
@@ -4763,7 +4760,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201001900 +0000" stop="20241201002600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201001900 +0000" stop="20241201002600 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -4772,7 +4769,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241201002600 +0000" stop="20241201025200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201002600 +0000" stop="20241201025200 +0000" channel="Cinemax HD">
 		<title lang="en">Meteoro</title>
 		<desc lang="en">Speed Racer (Emile Hirsch) nació en una familia que está en el negocio de los autos de carreras y es una de las grandes estrellas. Sentado tras el volante de su Mach 5, Speed frecuentemente gana las competencias. Cuando no acepta una oferta del presidente de Industrias Royalton, descubre un terrible secreto: magnates poderosos están arreglando las carreras. Con la esperanza de vencer a Royalton en su propio juego, Speed participa en la misma carrera que cobró la vida de su querido hermano.</desc>
 		<credits>
@@ -4904,7 +4901,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201025200 +0000" stop="20241201052600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201025200 +0000" stop="20241201052600 +0000" channel="Cinemax HD">
 		<title lang="en">Aquaman</title>
 		<desc lang="en">Aquaman debe recuperar el legendario Tridente de Atlan para salvar a la ciudad subacuática de Atlantis, y al mundo de la superficie, de su hermano hambriento de poder.</desc>
 		<credits>
@@ -5065,7 +5062,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201052600 +0000" stop="20241201065500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201052600 +0000" stop="20241201065500 +0000" channel="Cinemax HD">
 		<title lang="en">La noche de la expiación</title>
 		<desc lang="en">En un país asolado por la delincuencia y el hacinamiento en las cárceles, el Gobierno sanciona un período anual de 12 horas durante el cual toda la actividad criminal es legal, hasta el asesinato. James, Mary y sus dos hijos luchan por sobrevivir y no convertirse en monstruos.</desc>
 		<credits>
@@ -5198,7 +5195,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201065500 +0000" stop="20241201070300 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201065500 +0000" stop="20241201070300 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -5207,7 +5204,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241201070300 +0000" stop="20241201085800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201070300 +0000" stop="20241201085800 +0000" channel="Cinemax HD">
 		<title lang="en">12 horas para sobrevivir: El año de la elección</title>
 		<desc lang="en">Hace 18 años, Charlie Roan presenció el asesinato de su familia durante la noche de la Purga. En el presente, Charlie es candidata a la presidencia y quiere acabar con el régimen impuesto hace 20 años, que utiliza este día para eliminar a los más pobres y recortar el gasto público, pero antes deberá sobrevivir a doce horas de terror absoluto.</desc>
 		<credits>
@@ -5344,7 +5341,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201085800 +0000" stop="20241201103700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201085800 +0000" stop="20241201103700 +0000" channel="Cinemax HD">
 		<title lang="en">La huida</title>
 		<desc lang="en">Al señor Smith, el hombre más amargado y duro del mundo, le confían la protección del ser más inocente: un niño recién nacido al que ha ayudado a nacer en medio de un tiroteo. A pesar de su constante estado de irritación y hastío, Smith acepta el compromiso de cuidar al bebé, pero pronto descubre que el niño es el blanco de una extraña banda de criminales que desea verlo muerto.</desc>
 		<credits>
@@ -5468,7 +5465,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201103700 +0000" stop="20241201120000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201103700 +0000" stop="20241201120000 +0000" channel="Cinemax HD">
 		<title lang="en">Desafío a la muerte</title>
 		<desc lang="en">Tras despertar de un coma, un detective (Jean-Claude Van Damme) debe rescatar a su secuestrada esposa de los hombres que intentaba capturar.</desc>
 		<credits>
@@ -5552,7 +5549,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201120000 +0000" stop="20241201132800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201120000 +0000" stop="20241201132800 +0000" channel="Cinemax HD">
 		<title lang="en">El año del perro</title>
 		<desc lang="en">El escritor Jon Katz (Jeff Bridges) adopta a una perra collie que termina cambiando su existencia.</desc>
 		<credits>
@@ -5609,7 +5606,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201132800 +0000" stop="20241201160700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201132800 +0000" stop="20241201160700 +0000" channel="Cinemax HD">
 		<title lang="en">Apollo 13</title>
 		<desc lang="en">El Apolo 13 inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave.</desc>
 		<credits>
@@ -5730,7 +5727,7 @@
 			<value>3.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201160700 +0000" stop="20241201185400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201160700 +0000" stop="20241201185400 +0000" channel="Cinemax HD">
 		<title lang="en">Forrest Gump</title>
 		<desc lang="en">Forrest Gump, un joven sureño, tenaz e inocente, es protagonista de acontecimientos cruciales en la historia de los Estados Unidos.</desc>
 		<credits>
@@ -5909,7 +5906,7 @@
 			<value>4/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201185400 +0000" stop="20241201202900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201185400 +0000" stop="20241201202900 +0000" channel="Cinemax HD">
 		<title lang="en">Los pingüinos de Madagascar</title>
 		<desc lang="en">Skipper, Kowalski, Rico y Cabo unen fuerzas con la organización encubierta "Ráfaga Polar" para evitar que el villano Dr. Octavio Salitre destruya el mundo tal y como lo conocemos.</desc>
 		<credits>
@@ -6035,7 +6032,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201202900 +0000" stop="20241201222900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201202900 +0000" stop="20241201222900 +0000" channel="Cinemax HD">
 		<title lang="en">Sing: ¡Ven y canta!</title>
 		<desc lang="en">Un cerdo, un ratón, un puerco espín, un gorila, un elefante y otros animales se reúnen en un teatro para una competencia de canto.</desc>
 		<credits>
@@ -6162,7 +6159,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241201222900 +0000" stop="20241202010800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241201222900 +0000" stop="20241202010800 +0000" channel="Cinemax HD">
 		<title lang="en">Apollo 13</title>
 		<desc lang="en">El Apolo 13 inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave.</desc>
 		<credits>
@@ -6283,7 +6280,7 @@
 			<value>3.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202010800 +0000" stop="20241202040000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202010800 +0000" stop="20241202040000 +0000" channel="Cinemax HD">
 		<title lang="en">Forrest Gump</title>
 		<desc lang="en">Forrest Gump, un joven sureño, tenaz e inocente, es protagonista de acontecimientos cruciales en la historia de los Estados Unidos.</desc>
 		<credits>
@@ -6462,7 +6459,7 @@
 			<value>4/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202040000 +0000" stop="20241202062400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202040000 +0000" stop="20241202062400 +0000" channel="Cinemax HD">
 		<title lang="en">Filadelfia</title>
 		<desc lang="en">Despiden a un abogado portador de VIH por su enfermedad, por lo que decide demandar a su empleador. Para ello, contrata al único profesional que acepta tomar su caso: un abogado homofóbico.</desc>
 		<credits>
@@ -6572,7 +6569,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202062400 +0000" stop="20241202063100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202062400 +0000" stop="20241202063100 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -6581,7 +6578,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241202063100 +0000" stop="20241202085600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202063100 +0000" stop="20241202085600 +0000" channel="Cinemax HD">
 		<title lang="en">Un corazón normal</title>
 		<desc lang="en">A principios de los años ochenta, una doctora y habitantes de Nueva Rork investigan los efectos del VIH y el SIDA en la comunidad homosexual.</desc>
 		<credits>
@@ -6665,7 +6662,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202085600 +0000" stop="20241202125900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202085600 +0000" stop="20241202125900 +0000" channel="Cinemax HD">
 		<title lang="en">El plan perfecto</title>
 		<desc lang="en">La historia de un policía duro, el detective Frazier, quien enfrenta a un inteligente ladrón de bancos, Dalton, en un tenso drama de rehenes. A medida que se desarrolla el peligroso juego del gato y el ratón, surge un comodín: Madaline, una corredora de poder con una agenda oculta, que inyecta aún más inestabilidad en una situación ya volátil.</desc>
 		<credits>
@@ -6792,7 +6789,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202125900 +0000" stop="20241202150700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202125900 +0000" stop="20241202150700 +0000" channel="Cinemax HD">
 		<title lang="en">Sólo para parejas</title>
 		<desc lang="en">Para salvar su relación, Jason y Cynthia van a un hotel especializado en terapia para parejas. Cómo es más barato ir en grupo, sus amigos se sumarán al viaje.</desc>
 		<credits>
@@ -6931,7 +6928,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202150700 +0000" stop="20241202171500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202150700 +0000" stop="20241202171500 +0000" channel="Cinemax HD">
 		<title lang="en">Año Nuevo</title>
 		<desc lang="en">Historias entrelazadas prometen amor, esperanza, perdón, segundas oportunidades y mucho más para un número de neoyorquinos en su noche de celebración.</desc>
 		<credits>
@@ -7073,7 +7070,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202171500 +0000" stop="20241202190000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202171500 +0000" stop="20241202190000 +0000" channel="Cinemax HD">
 		<title lang="en">La cruda verdad</title>
 		<desc lang="en">Abby es una productora con unos ideales sobre el amor muy especiales. Todo cambia cuando aparece en su vida Mike, un intrépido periodista que intenta demostrarle que lo que busca no vale tanto, y para ello le hace pasar un test sobre las relaciones.</desc>
 		<credits>
@@ -7210,7 +7207,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202190000 +0000" stop="20241202205500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202190000 +0000" stop="20241202205500 +0000" channel="Cinemax HD">
 		<title lang="en">Chicas malas</title>
 		<desc lang="en">Recién entrando a la prepa, una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes.</desc>
 		<credits>
@@ -7332,7 +7329,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202205500 +0000" stop="20241202225400 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202205500 +0000" stop="20241202225400 +0000" channel="Cinemax HD">
 		<title lang="en">¿Y dónde están los Morgan?</title>
 		<desc lang="en">A una pareja se les presenta una oportunidad inverosímil de salvar su matrimonio cuando, después de presenciar un asesinato, el FBI los oculta en un pequeño pueblo de Wyoming.</desc>
 		<credits>
@@ -7453,7 +7450,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241202225400 +0000" stop="20241203010100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241202225400 +0000" stop="20241203010100 +0000" channel="Cinemax HD">
 		<title lang="en">El caza recompensas</title>
 		<desc lang="en">Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.</desc>
 		<credits>
@@ -7587,7 +7584,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203010100 +0000" stop="20241203025200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203010100 +0000" stop="20241203025200 +0000" channel="Cinemax HD">
 		<title lang="en">La cruda verdad</title>
 		<desc lang="en">Abby es una productora con unos ideales sobre el amor muy especiales. Todo cambia cuando aparece en su vida Mike, un intrépido periodista que intenta demostrarle que lo que busca no vale tanto, y para ello le hace pasar un test sobre las relaciones.</desc>
 		<credits>
@@ -7724,7 +7721,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203025200 +0000" stop="20241203030000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203025200 +0000" stop="20241203030000 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -7733,7 +7730,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241203030000 +0000" stop="20241203045600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203030000 +0000" stop="20241203045600 +0000" channel="Cinemax HD">
 		<title lang="en">Chicas malas</title>
 		<desc lang="en">Recién entrando a la prepa, una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes.</desc>
 		<credits>
@@ -7855,7 +7852,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203045600 +0000" stop="20241203064500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203045600 +0000" stop="20241203064500 +0000" channel="Cinemax HD">
 		<title lang="en">Los Ángeles de Charlie</title>
 		<desc lang="en">Un científico inventa Calisto, una fuente de energía limpia que revolucionará el mundo. Sin embargo, Calisto termina en las manos de un villano y las únicas que pueden evitar que lo use como un arma de destrucción masiva son los Ángeles de Charlie.</desc>
 		<credits>
@@ -7990,7 +7987,7 @@
 			<value>Violence</value>
 		</rating>
 	</programme>
-	<programme start="20241203064500 +0000" stop="20241203074500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203064500 +0000" stop="20241203074500 +0000" channel="Cinemax HD">
 		<title lang="en">El inmortal</title>
 		<desc lang="en">José Antonio, cansado de trabajar como camello, decide traicionar a su jefe y montar el negocio por su cuenta: quiere convertirse en el dueño de la droga de Madrid.</desc>
 		<credits>
@@ -8041,7 +8038,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20241203074500 +0000" stop="20241203095500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203074500 +0000" stop="20241203095500 +0000" channel="Cinemax HD">
 		<title lang="en">Cincuenta sombras de Grey</title>
 		<desc lang="en">Una estudiante de literatura inicia un romance atrevido con un hombre de negocios controlador cuyos gustos sexuales se encuentran en la frontera del dolor y el placer.</desc>
 		<credits>
@@ -8179,7 +8176,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203095500 +0000" stop="20241203120000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203095500 +0000" stop="20241203120000 +0000" channel="Cinemax HD">
 		<title lang="en">Cincuenta sombras más oscuras</title>
 		<desc lang="en">Christian Grey desea retomar la relación con Anastasia Steele, pero ella exige llegar a un nuevo acuerdo antes de aceptar. Cuando por fin empiezan a reconstruir aquello que tanto les unió, el sombrío pasado de Grey amenaza con cercenar su esperanza de disfrutar de un futuro junto a Anastasia.</desc>
 		<credits>
@@ -8317,7 +8314,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203120000 +0000" stop="20241203131800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203120000 +0000" stop="20241203131800 +0000" channel="Cinemax HD">
 		<title lang="en">El año del perro</title>
 		<desc lang="en">El escritor Jon Katz (Jeff Bridges) adopta a una perra collie que termina cambiando su existencia.</desc>
 		<credits>
@@ -8374,7 +8371,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203131800 +0000" stop="20241203151900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203131800 +0000" stop="20241203151900 +0000" channel="Cinemax HD">
 		<title lang="en">Jack Ryan: Operación Sombra</title>
 		<desc lang="en">El analista de la CIA, Jack Ryan, descubre un plan ruso para dañar a la economía de Estados Unidos con un ataque terrorista.</desc>
 		<credits>
@@ -8517,7 +8514,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203151900 +0000" stop="20241203171600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203151900 +0000" stop="20241203171600 +0000" channel="Cinemax HD">
 		<title lang="en">El vengador</title>
 		<desc lang="en">Clyde Shelton es un honorable hombre de familia, hasta que un día su esposa e hija son asesinadas durante el robo a su casa. Él espera justicia, pero un fiscal llamado Nick Rice llega a un acuerdo con uno de los asesinos a cambio de un testimonio. Diez años más tarde, ese hombre es hallado muerto y Shelton admite su culpa. Luego él envía un ultimátum a Rice para que arregle el sistema penal corrupto o se atenga a las consecuencias.</desc>
 		<credits>
@@ -8652,7 +8649,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203171600 +0000" stop="20241203185200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203171600 +0000" stop="20241203185200 +0000" channel="Cinemax HD">
 		<title lang="en">Sin escape</title>
 		<desc lang="en">La esposa de Brent, un expiloto, es secuestrada y él solo cuenta con la ayuda de una hacker. Su única esperanza es seguir las órdenes de la voz misteriosa que vigila todos sus movimientos mediante cámaras instaladas en el auto que conduce Brent.</desc>
 		<credits>
@@ -8785,7 +8782,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203185200 +0000" stop="20241203211900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203185200 +0000" stop="20241203211900 +0000" channel="Cinemax HD">
 		<title lang="en">El plan perfecto</title>
 		<desc lang="en">La historia de un policía duro, el detective Frazier, quien enfrenta a un inteligente ladrón de bancos, Dalton, en un tenso drama de rehenes. A medida que se desarrolla el peligroso juego del gato y el ratón, surge un comodín: Madaline, una corredora de poder con una agenda oculta, que inyecta aún más inestabilidad en una situación ya volátil.</desc>
 		<credits>
@@ -8912,7 +8909,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203211900 +0000" stop="20241203234700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203211900 +0000" stop="20241203234700 +0000" channel="Cinemax HD">
 		<title lang="en">Miami Vice</title>
 		<desc lang="en">Un caso que involucra a narcotraficantes y un asesinato en el sur de Florida da un giro personal para los detectives encubiertos Sonny Crockett y Ricardo Tubbs. El poco ortodoxo Crockett se enamora de la esposa china-cubana de un traficante de armas y drogas, mientras Tubbs se enfrenta a un ataque en contra de sus seres queridos.</desc>
 		<credits>
@@ -9042,7 +9039,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241203234700 +0000" stop="20241204014800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241203234700 +0000" stop="20241204014800 +0000" channel="Cinemax HD">
 		<title lang="en">El vengador</title>
 		<desc lang="en">Clyde Shelton es un honorable hombre de familia, hasta que un día su esposa e hija son asesinadas durante el robo a su casa. Él espera justicia, pero un fiscal llamado Nick Rice llega a un acuerdo con uno de los asesinos a cambio de un testimonio. Diez años más tarde, ese hombre es hallado muerto y Shelton admite su culpa. Luego él envía un ultimátum a Rice para que arregle el sistema penal corrupto o se atenga a las consecuencias.</desc>
 		<credits>
@@ -9177,7 +9174,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204014800 +0000" stop="20241204015500 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204014800 +0000" stop="20241204015500 +0000" channel="Cinemax HD">
 		<title lang="en">Inside Warner: Como agua para chocolate</title>
 		<desc lang="en">Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
 		<category lang="en">Soap</category>
@@ -9186,7 +9183,7 @@
 		<episode-num system="dd_progid">SH05410448.0000</episode-num>
 		<previously-shown start="20241120000000" />
 	</programme>
-	<programme start="20241204015500 +0000" stop="20241204040000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204015500 +0000" stop="20241204040000 +0000" channel="Cinemax HD">
 		<title lang="en">Jack Ryan: Operación Sombra</title>
 		<desc lang="en">El analista de la CIA, Jack Ryan, descubre un plan ruso para dañar a la economía de Estados Unidos con un ataque terrorista.</desc>
 		<credits>
@@ -9329,7 +9326,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204040000 +0000" stop="20241204055600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204040000 +0000" stop="20241204055600 +0000" channel="Cinemax HD">
 		<title lang="en">John Wick: Sin control</title>
 		<desc lang="en">La ciudad de Nueva York se llena de balas cuando John Wick, un exasesino a sueldo, regresa de su retiro para enfrentar a los mafiosos rusos, liderados por Viggo Tarasov, que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.</desc>
 		<credits>
@@ -9478,7 +9475,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204055600 +0000" stop="20241204080200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204055600 +0000" stop="20241204080200 +0000" channel="Cinemax HD">
 		<title lang="en">Una noche para sobrevivir</title>
 		<desc lang="en">Al veterano mercenario Jimmy Conlon lo persiguen los crímenes del pasado. Cuando se entera de que su hijo Mike corre peligro, Jimmy tiene que elegir entre el clan criminal al que ha pertenecido siempre y su familia, a la que había abandonado hace mucho tiempo. Sólo dispone de una noche para decidir.</desc>
 		<credits>
@@ -9610,7 +9607,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204080200 +0000" stop="20241204094700 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204080200 +0000" stop="20241204094700 +0000" channel="Cinemax HD">
 		<title lang="en">John Wick: Sin control</title>
 		<desc lang="en">La ciudad de Nueva York se llena de balas cuando John Wick, un exasesino a sueldo, regresa de su retiro para enfrentar a los mafiosos rusos, liderados por Viggo Tarasov, que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.</desc>
 		<credits>
@@ -9759,7 +9756,7 @@
 			<value>3/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204094700 +0000" stop="20241204120000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204094700 +0000" stop="20241204120000 +0000" channel="Cinemax HD">
 		<title lang="en">Una relación peligrosa</title>
 		<desc lang="en">Una gángster ayuda a un contraparte de poca categoría cuando éste secuestra al hermano de un fiscal federal.</desc>
 		<credits>
@@ -9847,7 +9844,7 @@
 			<value>1.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204120000 +0000" stop="20241204135100 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204120000 +0000" stop="20241204135100 +0000" channel="Cinemax HD">
 		<title lang="en">Regreso del todopoderoso</title>
 		<desc lang="en">El conductor de noticias Evan Baxter deja la ciudad de Búfalo cuando gana un escaño en el Congreso. Él se muda con su familia al norte de Virginia, y al pensar que lo había conseguido todo, Dios le hace vivir una crisis de proporciones bíblicas al ordenarle que construya un arca y suba en ella a parejas de todos los animales antes de la gran inundación.</desc>
 		<credits>
@@ -9977,7 +9974,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204135100 +0000" stop="20241204153200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204135100 +0000" stop="20241204153200 +0000" channel="Cinemax HD">
 		<title lang="en">No tengo madre</title>
 		<desc lang="en">Jeffrey Mannus es un holgazán de 29 años que todavía vive en casa de su madre. Él no ve ninguna razón para tener que cambiar su feliz existencia, pero su mundo perfecto se ve trastocado cuando su madre empieza a salir con un psicólogo motivacional.</desc>
 		<credits>
@@ -10044,7 +10041,7 @@
 			<value>Adult Situations</value>
 		</rating>
 	</programme>
-	<programme start="20241204153200 +0000" stop="20241204170900 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204153200 +0000" stop="20241204170900 +0000" channel="Cinemax HD">
 		<title lang="en">Las locuras de Dick y Jane</title>
 		<desc lang="en">Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.</desc>
 		<credits>
@@ -10161,7 +10158,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204170900 +0000" stop="20241204190600 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204170900 +0000" stop="20241204190600 +0000" channel="Cinemax HD">
 		<title lang="en">El Grinch</title>
 		<desc lang="en">Basada en el clásico del Dr. Seuss, sobre un villano que programa arruinar la Navidad para los residentes de Whoville.</desc>
 		<credits>
@@ -10308,7 +10305,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204190600 +0000" stop="20241204211200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204190600 +0000" stop="20241204211200 +0000" channel="Cinemax HD">
 		<title lang="en">El hermano de Santa</title>
 		<desc lang="en">De los dos hermanos Claus, Fred (Vince Vaughn) es el más problemático y es el polo opuesto de su cariñoso hermano Nicolás o Santa (Paul Giamatti). Los crímenes de Fred finalmente lo llevan a la cárcel, Nicolás lo saca de ahí y lo lleva con él al Polo Norte para que pague su deuda fabricando juguetes. Sin embargo, Fred tiene otros planes, y pone en peligro a la Navidad.</desc>
 		<credits>
@@ -10430,7 +10427,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204211200 +0000" stop="20241204232200 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204211200 +0000" stop="20241204232200 +0000" channel="Cinemax HD">
 		<title lang="en">Tonto y retonto 2</title>
 		<desc lang="en">Tras descubrir que necesita un trasplante de riñón y que tiene una hija, Harry Dunne emprende un viaje en carretera con su amigo Lloyd Christmas.</desc>
 		<credits>
@@ -10575,7 +10572,7 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241204232200 +0000" stop="20241205012000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241204232200 +0000" stop="20241205012000 +0000" channel="Cinemax HD">
 		<title lang="en">Sí señor</title>
 		<desc lang="en">Carl Allen es un hombre que muestra una tendencia enfermiza a decir siempre no, hasta que se inscribe en un programa de autoayuda basado en una única condición: decir "sí" a todo. Su vida empieza a transformarse de forma sorprendente e inesperada.</desc>
 		<credits>
@@ -10705,7 +10702,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241205012000 +0000" stop="20241205030000 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241205012000 +0000" stop="20241205030000 +0000" channel="Cinemax HD">
 		<title lang="en">Las locuras de Dick y Jane</title>
 		<desc lang="en">Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.</desc>
 		<credits>
@@ -10822,7 +10819,7 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20241205030000 +0000" stop="20241205045800 +0000" channel="I138.101730.schedulesdirect.org">
+	<programme start="20241205030000 +0000" stop="20241205045800 +0000" channel="Cinemax HD">
 		<title lang="en">El Grinch</title>
 		<desc lang="en">Basada en el clásico del Dr. Seuss, sobre un villano que programa arruinar la Navidad para los residentes de Whoville.</desc>
 		<credits>
