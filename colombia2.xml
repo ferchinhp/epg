@@ -1,77 +1,290 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv source-info-name="Colombia" generator-info-name="Colombia">
-	<channel id="Cinemax.co"><display-name>Cinemax.co</display-name></channel>
-	<channel id="City TV.co"><display-name>City TV.co</display-name></channel>
-	<programme start="20241128065100 +0000" stop="20241128085400 +0000" channel="Cinemax.co"><title>Barry Seal: Solo en América</title><desc>En la década de los ochenta, la CIA contrata al piloto americano Barry Seal para una misión encubierta que dio origen al Cartel de Medellín y casi termina con la presidencia de Ronald Reagan.</desc></programme>
-	<programme start="20241128085400 +0000" stop="20241128110000 +0000" channel="Cinemax.co"><title>Proyecto X</title><desc>Tres estudiantes de secundaria deciden organizar una fiesta salvaje en casa de uno de ellos, promocionándola en las redes sociales como la fiesta más loca de todos los tiempos.</desc></programme>
-	<programme start="20241128110000 +0000" stop="20241128133000 +0000" channel="Cinemax.co"><title>Encuentro de Navidad</title><desc>El amor surge entre una exestrella de Broadway y el propietario de un estudio de baile mientras trabajan juntos para revivir un espectáculo tradicional de Nochebuena.</desc></programme>
-	<programme start="20241128133000 +0000" stop="20241128133700 +0000" channel="Cinemax.co"><title>Inside Warner: Como agua para chocolate</title><desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc></programme>
-	<programme start="20241128133700 +0000" stop="20241128151400 +0000" channel="Cinemax.co"><title>Locos por las nueces 2</title><desc>El corrupto alcalde quiere destruir el parque para construir un parque de diversiones. La ardilla Surly y sus amigos animales no van a cruzarse de brazos y ver cómo arrasan su amado parque, ¡van a luchar por conservarlo!</desc></programme>
-	<programme start="20241128151400 +0000" stop="20241128163600 +0000" channel="Cinemax.co"><title>Amigos salvajes 2</title><desc>Un grupo de animales se une para rescatar a un perro salchicha secuestrado por mascotas domesticadas.</desc></programme>
-	<programme start="20241128163600 +0000" stop="20241128181600 +0000" channel="Cinemax.co"><title>Los Croods</title><desc>Una familia cavernícola busca un nuevo hogar después de que el suyo sea destruido. Mientras avanzan por un mundo desconocido, se encuentran con un nómada que deja a todos fascinados.</desc></programme>
-	<programme start="20241128181600 +0000" stop="20241128182400 +0000" channel="Cinemax.co"><title>Inside Warner: Como agua para chocolate</title><desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc></programme>
-	<programme start="20241128182400 +0000" stop="20241128200700 +0000" channel="Cinemax.co"><title>Regreso del todopoderoso</title><desc>Un congresista recién electo enfrenta una crisis de proporciones bíblicas cuando Dios le encarga la construcción de un arca.</desc></programme>
-	<programme start="20241128200700 +0000" stop="20241128220200 +0000" channel="Cinemax.co"><title>La herencia del Sr. Deeds</title><desc>Una reportera intenta crear un escándalo que involucra al bondadoso heredero de la fortuna de un magnate de los medios.</desc></programme>
-	<programme start="20241128220200 +0000" stop="20241128232700 +0000" channel="Cinemax.co"><title>Amigos salvajes 2</title><desc>Un grupo de animales se une para rescatar a un perro salchicha secuestrado por mascotas domesticadas.</desc></programme>
-	<programme start="20241128232700 +0000" stop="20241129011300 +0000" channel="Cinemax.co"><title>Los Croods</title><desc>Una familia cavernícola busca un nuevo hogar después de que el suyo sea destruido. Mientras avanzan por un mundo desconocido, se encuentran con un nómada que deja a todos fascinados.</desc></programme>
-	<programme start="20241129011300 +0000" stop="20241129030000 +0000" channel="Cinemax.co"><title>Regreso del todopoderoso</title><desc>Un congresista recién electo enfrenta una crisis de proporciones bíblicas cuando Dios le encarga la construcción de un arca.</desc></programme>
-	<programme start="20241129030000 +0000" stop="20241129045500 +0000" channel="Cinemax.co"><title>La herencia del Sr. Deeds</title><desc>Una reportera intenta crear un escándalo que involucra al bondadoso heredero de la fortuna de un magnate de los medios.</desc></programme>
-	<programme start="20241129045500 +0000" stop="20241129055900 +0000" channel="Cinemax.co"><title>True Blood : May Be the Last Time</title><sub-title>May Be the Last Time</sub-title><desc>Eric, Pam y el Sr. Gus se acercan a Sarah en Dallas. Adilyn y Wade encuentran un refugio temporal. Sookie busca un milagro. Bill recuerda su matrimonio pasado. Una cara conocida reaparece en Bon Temps. Sam se enfrenta a un dilema.</desc><episode-num system="xmltv_ns">6.6.</episode-num></programme>
-	<programme start="20241129055900 +0000" stop="20241129073200 +0000" channel="Cinemax.co"><title>El séptimo hijo</title><desc>Un campeón sobrenatural tiene poco tiempo para entrenar a un nuevo aprendiz para una batalla en contra de una bruja malévola y vengativa.</desc></programme>
-	<programme start="20241129073200 +0000" stop="20241129074200 +0000" channel="Cinemax.co"><title>Inside Warner: Como agua para chocolate</title><desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc></programme>
-	<programme start="20241129074200 +0000" stop="20241129092000 +0000" channel="Cinemax.co"><title>La gran muralla</title><desc>Encarcelado en la estructura de la Gran Muralla, en la China del siglo XV, un guerrero mercenario sella una alianza con un ejército secreto para enfrentar una horda de criaturas monstruosas.</desc></programme>
-	<programme start="20241129092000 +0000" stop="20241129110000 +0000" channel="Cinemax.co"><title>Priest: El vengador</title><desc>En una sociedad sacudida por siglos de guerras entre humanos y vampiros, un legendario monje guerrero trata de rescatar a su sobrina, raptada por un grupo de vampiros sedientos de sangre.</desc></programme>
-	<programme start="20241129110000 +0000" stop="20241129122100 +0000" channel="Cinemax.co"><title>Experimenter: La historia de Stanley Milgram</title><desc>En 1961, el psicólogo Stanley Milgram llevó a cabo en Yale unos controvertidos experimentos, tachados de sádicos por sus críticos, en los que estudió cuáles eran los límites de la obediencia, y dónde comienza el libre albedrío.</desc></programme>
-	<programme start="20241129122100 +0000" stop="20241129142200 +0000" channel="Cinemax.co"><title>Sin límites</title><desc>Un escritor desempleado llega a la cima del mundo financiero después de que una droga experimental le otorga unas habilidades mentales extraordinarias.</desc></programme>
-	<programme start="20241129142200 +0000" stop="20241129163400 +0000" channel="Cinemax.co"><title>El día del fin del mundo</title><desc>Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.</desc></programme>
-	<programme start="20241129163400 +0000" stop="20241129184200 +0000" channel="Cinemax.co"><title>Protegiendo al enemigo</title><desc>Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc></programme>
-	<programme start="20241129184200 +0000" stop="20241129203100 +0000" channel="Cinemax.co"><title>Experimenter: La historia de Stanley Milgram</title><desc>En 1961, el psicólogo Stanley Milgram llevó a cabo en Yale unos controvertidos experimentos, tachados de sádicos por sus críticos, en los que estudió cuáles eran los límites de la obediencia, y dónde comienza el libre albedrío.</desc></programme>
-	<programme start="20241129203100 +0000" stop="20241129223300 +0000" channel="Cinemax.co"><title>Sin límites</title><desc>Un escritor desempleado llega a la cima del mundo financiero después de que una droga experimental le otorga unas habilidades mentales extraordinarias.</desc></programme>
-	<programme start="20241129223300 +0000" stop="20241130005000 +0000" channel="Cinemax.co"><title>El día del fin del mundo</title><desc>Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.</desc></programme>
-	<programme start="20241130005000 +0000" stop="20241130030000 +0000" channel="Cinemax.co"><title>Protegiendo al enemigo</title><desc>Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc></programme>
-	<programme start="20241130030000 +0000" stop="20241130051100 +0000" channel="Cinemax.co"><title>Parker</title><desc>Un ladrón es traicionado por su propia banda, quienes lo abandonan a su suerte y lo dan por muerto. Si embargo, sobrevive y, con la ayuda de una infiltrada, promete vengarse y apropiarse del botín que robaron sus antiguos camaradas.</desc></programme>
-	<programme start="20241130051100 +0000" stop="20241130064100 +0000" channel="Cinemax.co"><title>Fuera de control</title><desc>El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc></programme>
-	<programme start="20241130064100 +0000" stop="20241130084200 +0000" channel="Cinemax.co"><title>Parker</title><desc>Un ladrón es traicionado por su propia banda, quienes lo abandonan a su suerte y lo dan por muerto. Si embargo, sobrevive y, con la ayuda de una infiltrada, promete vengarse y apropiarse del botín que robaron sus antiguos camaradas.</desc></programme>
-	<programme start="20241130084200 +0000" stop="20241130100900 +0000" channel="Cinemax.co"><title>Fuera de control</title><desc>El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc></programme>
-	<programme start="20241128083000 +0000" stop="20241128093000 +0000" channel="City TV.co"><title>Fuera del aire</title><desc>Fin de emisión.</desc></programme>
-	<programme start="20241128093000 +0000" stop="20241128103000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241128103000 +0000" stop="20241128143000 +0000" channel="City TV.co"><title>Arriba Bogotá</title><desc>La información sobre los hechos más destacados de la jornada.</desc></programme>
-	<programme start="20241128143000 +0000" stop="20241128153000 +0000" channel="City TV.co"><title>¿Quién tiene la razón?</title><desc>Programa en el que las parejas participantes plantean un conflicto que entre el jurado, el público y la presentadora intentan resolver, para que la pareja siga junta o definitivamente se separe.</desc></programme>
-	<programme start="20241128153000 +0000" stop="20241128163000 +0000" channel="City TV.co"><title>Primer impacto</title><desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc></programme>
-	<programme start="20241128163000 +0000" stop="20241128180000 +0000" channel="City TV.co"><title>Citynoticias del mediodía</title><desc>Las noticias diarias de la ciudad de Bogotá.</desc></programme>
-	<programme start="20241128180000 +0000" stop="20241128193000 +0000" channel="City TV.co"><title>Citynoticias del mediodía</title><desc>Las noticias diarias de la ciudad de Bogotá.</desc></programme>
-	<programme start="20241128193000 +0000" stop="20241128203000 +0000" channel="City TV.co"><title>Corona TV</title><desc>Espacio con toda la información del entretenimiento y lo último de la farándula nacional e internacional.</desc></programme>
-	<programme start="20241128203000 +0000" stop="20241128213000 +0000" channel="City TV.co"><title>Heartland</title><desc>Una familia de Alberta se esfuerza por mantener su rancho en funcionamiento y Amy Fleming descubre poco a poco que ella tiene el mismo talento que su madre fallecida de auxiliar caballos malheridos.</desc></programme>
-	<programme start="20241128213000 +0000" stop="20241128220000 +0000" channel="City TV.co"><title>Tom and Jerry</title><desc>El clásico infantil que comenzó sus aventuras allá por el año 1940, y que cuenta las peripecias de un gato y de su mejor enemigo, un ratón. A pesar de sus diferencias, Tom y Jerry no pueden vivir el uno sin el otro.</desc></programme>
-	<programme start="20241128220000 +0000" stop="20241128230000 +0000" channel="City TV.co"><title>Primer impacto</title><desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc></programme>
-	<programme start="20241128230000 +0000" stop="20241129000000 +0000" channel="City TV.co"><title>Me declaro culpable</title><desc>Franco Urzúa es un prestigioso abogado que se dedica a defender a los más necesitados. Pero su vida cambia por completo cuando se enfrenta al caso de Alba, una mujer detenida por la eutanasia de su marido.</desc></programme>
-	<programme start="20241129000000 +0000" stop="20241129010000 +0000" channel="City TV.co"><title>Dramáticas</title><desc>Se explora el fascinante y sorprendente mundo detrás de las telenovelas reviviendo su esencia y el impacto que han tenido a nivel mundial.</desc></programme>
-	<programme start="20241129010000 +0000" stop="20241129023000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241129023000 +0000" stop="20241129033000 +0000" channel="City TV.co"><title>CSI: Las Vegas</title><desc>Un grupo de investigadores forenses de un laboratorio de criminalística de Las Vegas trabaja para resolver crímenes.</desc></programme>
-	<programme start="20241129033000 +0000" stop="20241129050000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241129050000 +0000" stop="20241129053000 +0000" channel="City TV.co"><title>Programa pagado</title><desc>Programa que muestra diversos productos para la venta.</desc></programme>
-	<programme start="20241129053000 +0000" stop="20241129060000 +0000" channel="City TV.co"><title>Programa pagado</title><desc>Programa que muestra diversos productos para la venta.</desc></programme>
-	<programme start="20241129060000 +0000" stop="20241129083000 +0000" channel="City TV.co"><title>Arriba Bogotá</title><desc>La información sobre los hechos más destacados de la jornada.</desc></programme>
-	<programme start="20241129083000 +0000" stop="20241129093000 +0000" channel="City TV.co"><title>Fuera del aire</title><desc>Fin de emisión.</desc></programme>
-	<programme start="20241129093000 +0000" stop="20241129103000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241129103000 +0000" stop="20241129143000 +0000" channel="City TV.co"><title>Arriba Bogotá</title><desc>La información sobre los hechos más destacados de la jornada.</desc></programme>
-	<programme start="20241129143000 +0000" stop="20241129153000 +0000" channel="City TV.co"><title>¿Quién tiene la razón?</title><desc>Programa en el que las parejas participantes plantean un conflicto que entre el jurado, el público y la presentadora intentan resolver, para que la pareja siga junta o definitivamente se separe.</desc></programme>
-	<programme start="20241129153000 +0000" stop="20241129163000 +0000" channel="City TV.co"><title>Primer impacto</title><desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc></programme>
-	<programme start="20241129163000 +0000" stop="20241129180000 +0000" channel="City TV.co"><title>Citynoticias del mediodía</title><desc>Las noticias diarias de la ciudad de Bogotá.</desc></programme>
-	<programme start="20241129180000 +0000" stop="20241129193000 +0000" channel="City TV.co"><title>Citynoticias del mediodía</title><desc>Las noticias diarias de la ciudad de Bogotá.</desc></programme>
-	<programme start="20241129193000 +0000" stop="20241129203000 +0000" channel="City TV.co"><title>Corona TV</title><desc>Espacio con toda la información del entretenimiento y lo último de la farándula nacional e internacional.</desc></programme>
-	<programme start="20241129203000 +0000" stop="20241129213000 +0000" channel="City TV.co"><title>Heartland</title><desc>Una familia de Alberta se esfuerza por mantener su rancho en funcionamiento y Amy Fleming descubre poco a poco que ella tiene el mismo talento que su madre fallecida de auxiliar caballos malheridos.</desc></programme>
-	<programme start="20241129213000 +0000" stop="20241129220000 +0000" channel="City TV.co"><title>Tom and Jerry</title><desc>El clásico infantil que comenzó sus aventuras allá por el año 1940, y que cuenta las peripecias de un gato y de su mejor enemigo, un ratón. A pesar de sus diferencias, Tom y Jerry no pueden vivir el uno sin el otro.</desc></programme>
-	<programme start="20241129220000 +0000" stop="20241129230000 +0000" channel="City TV.co"><title>Primer impacto</title><desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc></programme>
-	<programme start="20241129230000 +0000" stop="20241130010000 +0000" channel="City TV.co"><title>Me declaro culpable</title><desc>Franco Urzúa es un prestigioso abogado que se dedica a defender a los más necesitados. Pero su vida cambia por completo cuando se enfrenta al caso de Alba, una mujer detenida por la eutanasia de su marido.</desc></programme>
-	<programme start="20241130010000 +0000" stop="20241130023000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241130023000 +0000" stop="20241130030000 +0000" channel="City TV.co"><title>Hashtag</title><desc>Tecnología, emprendimiento, redes sociales, robótica y videojuegos. La generación Z y los millennials tienen la oportunidad y el beneficio de exponer sus proyectos. Un espacio idóneo para aprender y mantenerse actualizado.</desc></programme>
-	<programme start="20241130030000 +0000" stop="20241130040000 +0000" channel="City TV.co"><title>CSI: Las Vegas</title><desc>Un grupo de investigadores forenses de un laboratorio de criminalística de Las Vegas trabaja para resolver crímenes.</desc></programme>
-	<programme start="20241130040000 +0000" stop="20241130050000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
-	<programme start="20241130050000 +0000" stop="20241130053000 +0000" channel="City TV.co"><title>Programa pagado</title><desc>Programa que muestra diversos productos para la venta.</desc></programme>
-	<programme start="20241130053000 +0000" stop="20241130060000 +0000" channel="City TV.co"><title>Programa pagado</title><desc>Programa que muestra diversos productos para la venta.</desc></programme>
-	<programme start="20241130060000 +0000" stop="20241130083000 +0000" channel="City TV.co"><title>Arriba Bogotá</title><desc>La información sobre los hechos más destacados de la jornada.</desc></programme>
-	<programme start="20241130083000 +0000" stop="20241130093000 +0000" channel="City TV.co"><title>Fuera del aire</title><desc>Fin de emisión.</desc></programme>
-	<programme start="20241130093000 +0000" stop="20241130110000 +0000" channel="City TV.co"><title>Citynoticias de las 8</title><desc>Las últimas noticias del país y del mundo.</desc></programme>
+	<channel id="Cinemax HD">
+		<display-name>Cinemax HD</display-name>
+	</channel>
+	<channel id="Caracol HD">
+		<display-name>Caracol HD</display-name>
+	</channel>
+	<programme start="20241128065100 +0000" stop="20241128085400 +0000" channel="Cinemax HD">
+		<title>Barry Seal: Solo en América</title>
+		<desc>En la década de los ochenta, la CIA contrata al piloto americano Barry Seal para una misión encubierta que dio origen al Cartel de Medellín y casi termina con la presidencia de Ronald Reagan.</desc>
+	</programme>
+	<programme start="20241128085400 +0000" stop="20241128110000 +0000" channel="Cinemax HD">
+		<title>Proyecto X</title>
+		<desc>Tres estudiantes de secundaria deciden organizar una fiesta salvaje en casa de uno de ellos, promocionándola en las redes sociales como la fiesta más loca de todos los tiempos.</desc>
+	</programme>
+	<programme start="20241128110000 +0000" stop="20241128133000 +0000" channel="Cinemax HD">
+		<title>Encuentro de Navidad</title>
+		<desc>El amor surge entre una exestrella de Broadway y el propietario de un estudio de baile mientras trabajan juntos para revivir un espectáculo tradicional de Nochebuena.</desc>
+	</programme>
+	<programme start="20241128133000 +0000" stop="20241128133700 +0000" channel="Cinemax HD">
+		<title>Inside Warner: Como agua para chocolate</title>
+		<desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
+	</programme>
+	<programme start="20241128133700 +0000" stop="20241128151400 +0000" channel="Cinemax HD">
+		<title>Locos por las nueces 2</title>
+		<desc>El corrupto alcalde quiere destruir el parque para construir un parque de diversiones. La ardilla Surly y sus amigos animales no van a cruzarse de brazos y ver cómo arrasan su amado parque, ¡van a luchar por conservarlo!</desc>
+	</programme>
+	<programme start="20241128151400 +0000" stop="20241128163600 +0000" channel="Cinemax HD">
+		<title>Amigos salvajes 2</title>
+		<desc>Un grupo de animales se une para rescatar a un perro salchicha secuestrado por mascotas domesticadas.</desc>
+	</programme>
+	<programme start="20241128163600 +0000" stop="20241128181600 +0000" channel="Cinemax HD">
+		<title>Los Croods</title>
+		<desc>Una familia cavernícola busca un nuevo hogar después de que el suyo sea destruido. Mientras avanzan por un mundo desconocido, se encuentran con un nómada que deja a todos fascinados.</desc>
+	</programme>
+	<programme start="20241128181600 +0000" stop="20241128182400 +0000" channel="Cinemax HD">
+		<title>Inside Warner: Como agua para chocolate</title>
+		<desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
+	</programme>
+	<programme start="20241128182400 +0000" stop="20241128200700 +0000" channel="Cinemax HD">
+		<title>Regreso del todopoderoso</title>
+		<desc>Un congresista recién electo enfrenta una crisis de proporciones bíblicas cuando Dios le encarga la construcción de un arca.</desc>
+	</programme>
+	<programme start="20241128200700 +0000" stop="20241128220200 +0000" channel="Cinemax HD">
+		<title>La herencia del Sr. Deeds</title>
+		<desc>Una reportera intenta crear un escándalo que involucra al bondadoso heredero de la fortuna de un magnate de los medios.</desc>
+	</programme>
+	<programme start="20241128220200 +0000" stop="20241128232700 +0000" channel="Cinemax HD">
+		<title>Amigos salvajes 2</title>
+		<desc>Un grupo de animales se une para rescatar a un perro salchicha secuestrado por mascotas domesticadas.</desc>
+	</programme>
+	<programme start="20241128232700 +0000" stop="20241129011300 +0000" channel="Cinemax HD">
+		<title>Los Croods</title>
+		<desc>Una familia cavernícola busca un nuevo hogar después de que el suyo sea destruido. Mientras avanzan por un mundo desconocido, se encuentran con un nómada que deja a todos fascinados.</desc>
+	</programme>
+	<programme start="20241129011300 +0000" stop="20241129030000 +0000" channel="Cinemax HD">
+		<title>Regreso del todopoderoso</title>
+		<desc>Un congresista recién electo enfrenta una crisis de proporciones bíblicas cuando Dios le encarga la construcción de un arca.</desc>
+	</programme>
+	<programme start="20241129030000 +0000" stop="20241129045500 +0000" channel="Cinemax HD">
+		<title>La herencia del Sr. Deeds</title>
+		<desc>Una reportera intenta crear un escándalo que involucra al bondadoso heredero de la fortuna de un magnate de los medios.</desc>
+	</programme>
+	<programme start="20241129045500 +0000" stop="20241129055900 +0000" channel="Cinemax HD">
+		<title>True Blood : May Be the Last Time</title>
+		<sub-title>May Be the Last Time</sub-title><desc>Eric, Pam y el Sr. Gus se acercan a Sarah en Dallas. Adilyn y Wade encuentran un refugio temporal. Sookie busca un milagro. Bill recuerda su matrimonio pasado. Una cara conocida reaparece en Bon Temps. Sam se enfrenta a un dilema.</desc><episode-num system="xmltv_ns">6.6.</episode-num>
+	</programme>
+	<programme start="20241129055900 +0000" stop="20241129073200 +0000" channel="Cinemax HD">
+		<title>El séptimo hijo</title>
+		<desc>Un campeón sobrenatural tiene poco tiempo para entrenar a un nuevo aprendiz para una batalla en contra de una bruja malévola y vengativa.</desc>
+	</programme>
+	<programme start="20241129073200 +0000" stop="20241129074200 +0000" channel="Cinemax HD">
+		<title>Inside Warner: Como agua para chocolate</title>
+		<desc>Un vistazo al detrás de escena de la nueve serie, que adapta la icónica novela de Laura Esquivel.</desc>
+	</programme>
+	<programme start="20241129074200 +0000" stop="20241129092000 +0000" channel="Cinemax HD">
+		<title>La gran muralla</title>
+		<desc>Encarcelado en la estructura de la Gran Muralla, en la China del siglo XV, un guerrero mercenario sella una alianza con un ejército secreto para enfrentar una horda de criaturas monstruosas.</desc>
+	</programme>
+	<programme start="20241129092000 +0000" stop="20241129110000 +0000" channel="Cinemax HD">
+		<title>Priest: El vengador</title>
+		<desc>En una sociedad sacudida por siglos de guerras entre humanos y vampiros, un legendario monje guerrero trata de rescatar a su sobrina, raptada por un grupo de vampiros sedientos de sangre.</desc>
+	</programme>
+	<programme start="20241129110000 +0000" stop="20241129122100 +0000" channel="Cinemax HD">
+		<title>Experimenter: La historia de Stanley Milgram</title>
+		<desc>En 1961, el psicólogo Stanley Milgram llevó a cabo en Yale unos controvertidos experimentos, tachados de sádicos por sus críticos, en los que estudió cuáles eran los límites de la obediencia, y dónde comienza el libre albedrío.</desc>
+	</programme>
+	<programme start="20241129122100 +0000" stop="20241129142200 +0000" channel="Cinemax HD">
+		<title>Sin límites</title>
+		<desc>Un escritor desempleado llega a la cima del mundo financiero después de que una droga experimental le otorga unas habilidades mentales extraordinarias.</desc>
+	</programme>
+	<programme start="20241129142200 +0000" stop="20241129163400 +0000" channel="Cinemax HD">
+		<title>El día del fin del mundo</title>
+		<desc>Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.</desc>
+	</programme>
+	<programme start="20241129163400 +0000" stop="20241129184200 +0000" channel="Cinemax HD">
+		<title>Protegiendo al enemigo</title>
+		<desc>Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc>
+	</programme>
+	<programme start="20241129184200 +0000" stop="20241129203100 +0000" channel="Cinemax HD">
+		<title>Experimenter: La historia de Stanley Milgram</title>
+		<desc>En 1961, el psicólogo Stanley Milgram llevó a cabo en Yale unos controvertidos experimentos, tachados de sádicos por sus críticos, en los que estudió cuáles eran los límites de la obediencia, y dónde comienza el libre albedrío.</desc>
+	</programme>
+	<programme start="20241129203100 +0000" stop="20241129223300 +0000" channel="Cinemax HD">
+		<title>Sin límites</title>
+		<desc>Un escritor desempleado llega a la cima del mundo financiero después de que una droga experimental le otorga unas habilidades mentales extraordinarias.</desc>
+	</programme>
+	<programme start="20241129223300 +0000" stop="20241130005000 +0000" channel="Cinemax HD">
+		<title>El día del fin del mundo</title>
+		<desc>Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.</desc>
+	</programme>
+	<programme start="20241130005000 +0000" stop="20241130030000 +0000" channel="Cinemax HD">
+		<title>Protegiendo al enemigo</title>
+		<desc>Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc>
+	</programme>
+	<programme start="20241130030000 +0000" stop="20241130051100 +0000" channel="Cinemax HD">
+		<title>Parker</title>
+		<desc>Un ladrón es traicionado por su propia banda, quienes lo abandonan a su suerte y lo dan por muerto. Si embargo, sobrevive y, con la ayuda de una infiltrada, promete vengarse y apropiarse del botín que robaron sus antiguos camaradas.</desc>
+	</programme>
+	<programme start="20241130051100 +0000" stop="20241130064100 +0000" channel="Cinemax HD">
+		<title>Fuera de control</title>
+		<desc>El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc>
+	</programme>
+	<programme start="20241130064100 +0000" stop="20241130084200 +0000" channel="Cinemax HD">
+		<title>Parker</title>
+		<desc>Un ladrón es traicionado por su propia banda, quienes lo abandonan a su suerte y lo dan por muerto. Si embargo, sobrevive y, con la ayuda de una infiltrada, promete vengarse y apropiarse del botín que robaron sus antiguos camaradas.</desc>
+	</programme>
+	<programme start="20241130084200 +0000" stop="20241130100900 +0000" channel="Cinemax HD">
+		<title>Fuera de control</title>
+		<desc>El horrendo día de Rachel, madre soltera, se torna una pesadilla infernal cuando toca la bocina a otro conductor. Lo que empieza como una discusión corriente por el tráfico se vuelve, en la cabeza de un psicópata, en una afrenta que merece venganza.</desc>
+	</programme>
+	<programme start="20241128061500 +0000" stop="20241128100000 +0000" channel="Caracol HD">
+		<title>También caerás</title>
+		<desc>Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.</desc>
+	</programme>
+	<programme start="20241128100000 +0000" stop="20241128101500 +0000" channel="Caracol HD">
+		<title>La finca de hoy</title>
+		<desc>Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+	</programme>
+	<programme start="20241128101500 +0000" stop="20241128103000 +0000" channel="Caracol HD">
+		<title>Día a día I</title>
+		<desc>Un programa matinal cargado de humor, entrevistas, consejos de salud, moda, concursos y mucho más contenido.</desc>
+	</programme>
+	<programme start="20241128103000 +0000" stop="20241128140000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Primera edición</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241128140000 +0000" stop="20241128163000 +0000" channel="Caracol HD">
+		<title>Día a día</title>
+		<desc>Un programa matinal cargado de humor, entrevistas, consejos de salud, moda, concursos y mucho más contenido.</desc>
+	</programme>
+	<programme start="20241128163000 +0000" stop="20241128173000 +0000" channel="Caracol HD">
+		<title>El cuerpo del deseo</title>
+		<desc>Un hombre rico enamorado de una mujer más joven se muere y regresa a la vida en el cuerpo de otro para descubrir la verdad sobre su esposa y otros secretos mientras intenta salvar a sus amistades y poner todo en orden.</desc>
+	</programme>
+	<programme start="20241128173000 +0000" stop="20241128203000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Edición mediodía</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241128203000 +0000" stop="20241128213000 +0000" channel="Caracol HD">
+		<title>Hicran</title>
+		<desc>Hicran busca imparablemente a su hija desde que se la arrebataron al nacer. Por azares de la vida, ambas se reencuentran e Hicran se convierte en niñera de la pequeña sin saber que es su hija.</desc>
+	</programme>
+	<programme start="20241128213000 +0000" stop="20241128223000 +0000" channel="Caracol HD">
+		<title>El destino de Melek</title>
+		<desc>Melek es una mujer que debe luchar ante la adversidad. El día de su compromiso decide olvidar los votos y se escapa con Alpay, el joven a quien ama y huye olvidando todo.</desc>
+	</programme>
+	<programme start="20241128223000 +0000" stop="20241128231500 +0000" channel="Caracol HD">
+		<title>Karsu</title>
+		<desc>Karsu, atrapada en un matrimonio infeliz y abusivo con su marido Reha, lucha como madre. Abrumada por el nacimiento de su tercer hijo, envía a su hijo de tres años, Kuzey, a Estambul para que se quede con su madre, Filiz.</desc>
+	</programme>
+	<programme start="20241128231500 +0000" stop="20241128235800 +0000" channel="Caracol HD">
+		<title>Sureya</title>
+		<desc>Süreyya, quien creció sin padres, tuvo que madurar rápidamente y se enamora de Faruk, un rico y hombre de negocios.</desc>
+	</programme>
+	<programme start="20241128235800 +0000" stop="20241129000000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Edición central</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241129000000 +0000" stop="20241129003000 +0000" channel="Caracol HD">
+		<title>Noticiero del Senado</title>
+		<desc>Noticias de actualidad nacional, con noticias sobre debates, inversiones, proyectos de ley con intervención de los honorables Senadores de la República.</desc>
+	</programme>
+	<programme start="20241129003000 +0000" stop="20241129010000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Edición central</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241129010000 +0000" stop="20241129023000 +0000" channel="Caracol HD">
+		<title>La descarga</title>
+		<desc>El talento va más allá de las estrellas: la elección del mejor artista de todos los tiempos, entre los 91 participantes de todas las temporadas de Yo me llamo, A otro nivel y La voz.</desc>
+	</programme>
+	<programme start="20241129023000 +0000" stop="20241129033000 +0000" channel="Caracol HD">
+		<title>Escupiré sobre sus tumbas</title>
+		<desc>Brian OConnor quiere vengar la muerte de Sonny OConnor, quien fue encontrado sin vida, al parecer, por un suicidio en la Costa Caribe. Brian irá a ese lugar fingiendo ser Vinicio Gallo, un prestigioso capitán de barcos, para descubrir la verdad.</desc>
+	</programme>
+	<programme start="20241129033000 +0000" stop="20241129043000 +0000" channel="Caracol HD">
+		<title>Loquito por ti</title>
+		<desc>Camilo y Juancho son unos buenos amigos que quieren convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, de quien se enamoran y por quien se enfrentarán sin importar las consecuencias.</desc>
+	</programme>
+	<programme start="20241129043000 +0000" stop="20241129050000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Última edición</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241129050000 +0000" stop="20241129054500 +0000" channel="Caracol HD">
+		<title>Rebelde</title>
+		<desc>Una escuela privada elitista, donde la mayoría de los estudiantes son de la alta sociedad, asegura un exitoso futuro para los jóvenes becados de bajos recursos. Sin embargo, luchar con las barreras sociales será la clave para su éxito.</desc>
+	</programme>
+	<programme start="20241129054500 +0000" stop="20241129061500 +0000" channel="Caracol HD">
+		<title>El diario de Diana</title>
+		<desc>Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+	</programme>
+	<programme start="20241129061500 +0000" stop="20241129100000 +0000" channel="Caracol HD">
+		<title>También caerás</title>
+		<desc>Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.</desc>
+	</programme>
+	<programme start="20241129100000 +0000" stop="20241129101500 +0000" channel="Caracol HD">
+		<title>La finca de hoy</title>
+		<desc>Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+	</programme>
+	<programme start="20241129101500 +0000" stop="20241129103000 +0000" channel="Caracol HD">
+		<title>Día a día I</title>
+		<desc>Un programa matinal cargado de humor, entrevistas, consejos de salud, moda, concursos y mucho más contenido.</desc>
+	</programme>
+	<programme start="20241129103000 +0000" stop="20241129140000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Primera edición</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241129140000 +0000" stop="20241129163000 +0000" channel="Caracol HD">
+		<title>Día a día</title>
+		<desc>Un programa matinal cargado de humor, entrevistas, consejos de salud, moda, concursos y mucho más contenido.</desc>
+	</programme>
+	<programme start="20241129163000 +0000" stop="20241129173000 +0000" channel="Caracol HD">
+		<title>El cuerpo del deseo</title>
+		<desc>Un hombre rico enamorado de una mujer más joven se muere y regresa a la vida en el cuerpo de otro para descubrir la verdad sobre su esposa y otros secretos mientras intenta salvar a sus amistades y poner todo en orden.</desc>
+	</programme>
+	<programme start="20241129173000 +0000" stop="20241129203000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Edición mediodía</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241129203000 +0000" stop="20241129213000 +0000" channel="Caracol HD">
+		<title>Hicran</title>
+		<desc>Hicran busca imparablemente a su hija desde que se la arrebataron al nacer. Por azares de la vida, ambas se reencuentran e Hicran se convierte en niñera de la pequeña sin saber que es su hija.</desc>
+	</programme>
+	<programme start="20241129213000 +0000" stop="20241129223000 +0000" channel="Caracol HD">
+		<title>El destino de Melek</title>
+		<desc>Melek es una mujer que debe luchar ante la adversidad. El día de su compromiso decide olvidar los votos y se escapa con Alpay, el joven a quien ama y huye olvidando todo.</desc>
+	</programme>
+	<programme start="20241129223000 +0000" stop="20241129231500 +0000" channel="Caracol HD">
+		<title>Karsu</title>
+		<desc>Karsu, atrapada en un matrimonio infeliz y abusivo con su marido Reha, lucha como madre. Abrumada por el nacimiento de su tercer hijo, envía a su hijo de tres años, Kuzey, a Estambul para que se quede con su madre, Filiz.</desc>
+	</programme>
+	<programme start="20241129231500 +0000" stop="20241130000000 +0000" channel="Caracol HD">
+		<title>Sureya</title>
+		<desc>Süreyya, quien creció sin padres, tuvo que madurar rápidamente y se enamora de Faruk, un rico y hombre de negocios.</desc>
+	</programme>
+	<programme start="20241130000000 +0000" stop="20241130010000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Edición central</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241130010000 +0000" stop="20241130023000 +0000" channel="Caracol HD">
+		<title>La descarga</title>
+		<desc>El talento va más allá de las estrellas: la elección del mejor artista de todos los tiempos, entre los 91 participantes de todas las temporadas de Yo me llamo, A otro nivel y La voz.</desc>
+	</programme>
+	<programme start="20241130023000 +0000" stop="20241130033000 +0000" channel="Caracol HD">
+		<title>Escupiré sobre sus tumbas</title>
+		<desc>Brian OConnor quiere vengar la muerte de Sonny OConnor, quien fue encontrado sin vida, al parecer, por un suicidio en la Costa Caribe. Brian irá a ese lugar fingiendo ser Vinicio Gallo, un prestigioso capitán de barcos, para descubrir la verdad.</desc>
+	</programme>
+	<programme start="20241130033000 +0000" stop="20241130043000 +0000" channel="Caracol HD">
+		<title>Loquito por ti</title>
+		<desc>Camilo y Juancho son unos buenos amigos que quieren convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, de quien se enamoran y por quien se enfrentarán sin importar las consecuencias.</desc>
+	</programme>
+	<programme start="20241130043000 +0000" stop="20241130050000 +0000" channel="Caracol HD">
+		<title>Noticias Caracol: Última edición</title>
+		<desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+	</programme>
+	<programme start="20241130050000 +0000" stop="20241130054500 +0000" channel="Caracol HD">
+		<title>Rebelde</title>
+		<desc>Una escuela privada elitista, donde la mayoría de los estudiantes son de la alta sociedad, asegura un exitoso futuro para los jóvenes becados de bajos recursos. Sin embargo, luchar con las barreras sociales será la clave para su éxito.</desc>
+	</programme>
+	<programme start="20241130054500 +0000" stop="20241130061500 +0000" channel="Caracol HD">
+		<title>El diario de Diana</title>
+		<desc>Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+	</programme>
+	<programme start="20241130061500 +0000" stop="20241130100000 +0000" channel="Caracol HD">
+		<title>También caerás</title>
+		<desc>Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.</desc>
+	</programme>
 </tv>
